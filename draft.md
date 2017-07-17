@@ -8,6 +8,11 @@ and
 ---
 
 - intro
-  - 5 pillars, focus on dev
+  - 6 pillars, focus on dev
 - tools
   - ember-a11y
+  - ember-a11y-testing
+  - ember-a11y-landmarks
+- testing
+
+
